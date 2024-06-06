@@ -1,0 +1,309 @@
+$date
+     Jun 06, 2024       09:49:08
+$end
+
+$version
+ SystemC 2.3.1-Accellera --- Jun  6 2024 09:20:08
+$end
+
+$timescale
+     1 ps
+$end
+
+$scope module SystemC $end
+$var wire    1  aaaaa  rst       $end
+$var wire    1  aaaab  clk       $end
+$var wire    8  aaaac  cnt [7:0]  $end
+$upscope $end
+$enddefinitions  $end
+
+$comment
+All initial values are dumped below at time 0 sec = 0 timescale units.
+$end
+
+$dumpvars
+1aaaaa
+0aaaab
+b0 aaaac
+$end
+
+#15000
+0aaaaa
+
+#65000
+1aaaab
+b1 aaaac
+
+#115000
+0aaaab
+
+#165000
+1aaaab
+b10 aaaac
+
+#215000
+0aaaab
+
+#265000
+1aaaab
+b11 aaaac
+
+#315000
+0aaaab
+
+#365000
+1aaaab
+b100 aaaac
+
+#415000
+0aaaab
+
+#465000
+1aaaab
+b101 aaaac
+
+#515000
+0aaaab
+
+#565000
+1aaaab
+b110 aaaac
+
+#615000
+0aaaab
+
+#665000
+1aaaab
+b111 aaaac
+
+#715000
+0aaaab
+
+#765000
+1aaaab
+b1000 aaaac
+
+#815000
+0aaaab
+
+#865000
+1aaaab
+b1001 aaaac
+
+#915000
+0aaaab
+
+#965000
+1aaaab
+b1010 aaaac
+
+#1015000
+0aaaab
+
+#1065000
+1aaaab
+b1011 aaaac
+
+#1115000
+0aaaab
+
+#1165000
+1aaaab
+b1100 aaaac
+
+#1215000
+0aaaab
+
+#1265000
+1aaaab
+b1101 aaaac
+
+#1315000
+0aaaab
+
+#1365000
+1aaaab
+b1110 aaaac
+
+#1415000
+0aaaab
+
+#1465000
+1aaaab
+b1111 aaaac
+
+#1515000
+0aaaab
+
+#1565000
+1aaaab
+b10000 aaaac
+
+#1615000
+0aaaab
+
+#1665000
+1aaaab
+b10001 aaaac
+
+#1715000
+0aaaab
+
+#1765000
+1aaaab
+b10010 aaaac
+
+#1815000
+0aaaab
+
+#1865000
+1aaaab
+b10011 aaaac
+
+#1915000
+0aaaab
+
+#1965000
+1aaaab
+b10100 aaaac
+
+#2015000
+0aaaab
+
+#2065000
+1aaaab
+b10101 aaaac
+
+#2115000
+0aaaab
+
+#2165000
+1aaaab
+b10110 aaaac
+
+#2215000
+0aaaab
+
+#2265000
+1aaaab
+b10111 aaaac
+
+#2315000
+0aaaab
+
+#2365000
+1aaaab
+b11000 aaaac
+
+#2415000
+0aaaab
+
+#2465000
+1aaaab
+b11001 aaaac
+
+#2515000
+0aaaab
+
+#2565000
+1aaaab
+b11010 aaaac
+
+#2615000
+0aaaab
+
+#2665000
+1aaaab
+b11011 aaaac
+
+#2715000
+0aaaab
+
+#2765000
+1aaaab
+b11100 aaaac
+
+#2815000
+0aaaab
+
+#2865000
+1aaaab
+b11101 aaaac
+
+#2915000
+0aaaab
+
+#2965000
+1aaaab
+b11110 aaaac
+
+#3015000
+0aaaab
+
+#3065000
+1aaaab
+b11111 aaaac
+
+#3115000
+0aaaab
+
+#3165000
+1aaaab
+b100000 aaaac
+
+#3215000
+0aaaab
+
+#3265000
+1aaaab
+b100001 aaaac
+
+#3315000
+0aaaab
+
+#3365000
+1aaaab
+b100010 aaaac
+
+#3415000
+0aaaab
+
+#3465000
+1aaaab
+b100011 aaaac
+
+#3515000
+0aaaab
+
+#3565000
+1aaaab
+b100100 aaaac
+
+#3615000
+0aaaab
+
+#3665000
+1aaaab
+b100101 aaaac
+
+#3715000
+0aaaab
+
+#3765000
+1aaaab
+b100110 aaaac
+
+#3815000
+0aaaab
+
+#3865000
+1aaaab
+b100111 aaaac
+
+#3915000
+0aaaab
+
+#3965000
+1aaaab
+b101000 aaaac
+
